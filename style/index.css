@@ -1,1 +1,13 @@
 /* Add CSS styling here */
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+    text-transform: capitalize;
+}
+header nav{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
